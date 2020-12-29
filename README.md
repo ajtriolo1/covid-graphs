@@ -6,8 +6,8 @@ This website allows the user to pick a country and/or state that they would like
 
 Global data is recieved from Our World In Data, while state data is from Covid Tracking Project.
 
-The website is hosted by pythonanywhere, and can be found at http://ajtriolo.pythonanywhere.com/.
-
 OWID - https://ourworldindata.org/coronavirus
 
 Covid Tracking Project - https://covidtracking.com/
+
+The website is hosted by pythonanywhere, and can be found at http://ajtriolo.pythonanywhere.com/.
